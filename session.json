@@ -42,7 +42,7 @@
     "processedHistoryMessages": [
       {
         "key": {
-          "remoteJid": "6285709344807@s.whatsapp.net",
+          "remoteJid": "6285709344807@s.whatsapp.net"
           "fromMe": true,
           "id": "61E3F5B80C88B114C5324390A4D476A4"
         },
@@ -266,7 +266,7 @@
           "type": "Buffer",
           "data": "YOQyqNZdqlPejzzSjHz/Z+HFTIDEb/2Q/rhcamy5uXY="
         },
-        "public": {
+        "public": 
           "type": "Buffer",
           "data": "II4GGjbh3LU3sSPJnxiYAlL9deLmgm4FCm8XV+5RwGU="
         }
